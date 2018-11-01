@@ -35,7 +35,7 @@ class Search extends React.Component {
                     variant="outlined"
                 />
             </Col>,
-            <Col sm={12}>
+            <Col sm={8}>
                 {this.state.searchTerm}
             </Col>
         ]);
